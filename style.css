@@ -1,0 +1,7 @@
+h1{color:crimson}
+       h2{color:darkorange;text-align: center;}
+      .header{background-color: darkseagreen; display: flex; justify-content: space-between;}
+      .grid{display: flex;flex-wrap:wrap ;justify-content: space-evenly;background-color: wheat;}
+      p{color: red;font-size: 20px;text-align: center;}
+      .bg{background-color: yellow;display: flex;justify-content: center;}
+       
